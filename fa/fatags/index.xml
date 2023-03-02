@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FAtags on PaperMod RTL</title>
-    <link>https://seriousli.ingo/fa/fatags/</link>
+    <link>https://seriousli.info/fa/fatags/</link>
     <description>Recent content in FAtags on PaperMod RTL</description>
     <image>
       <title>PaperMod RTL</title>
-      <url>https://seriousli.ingo/papermod-cover.png</url>
-      <link>https://seriousli.ingo/papermod-cover.png</link>
+      <url>https://seriousli.info/papermod-cover.png</url>
+      <link>https://seriousli.info/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://seriousli.ingo/fa/fatags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://seriousli.info/fa/fatags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://seriousli.ingo/fa/fatags/css/</link>
+      <link>https://seriousli.info/fa/fatags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seriousli.ingo/fa/fatags/css/</guid>
+      <guid>https://seriousli.info/fa/fatags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://seriousli.ingo/fa/fatags/html/</link>
+      <link>https://seriousli.info/fa/fatags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seriousli.ingo/fa/fatags/html/</guid>
+      <guid>https://seriousli.info/fa/fatags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://seriousli.ingo/fa/fatags/markdown/</link>
+      <link>https://seriousli.info/fa/fatags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seriousli.ingo/fa/fatags/markdown/</guid>
+      <guid>https://seriousli.info/fa/fatags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://seriousli.ingo/fa/fatags/themes/</link>
+      <link>https://seriousli.info/fa/fatags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://seriousli.ingo/fa/fatags/themes/</guid>
+      <guid>https://seriousli.info/fa/fatags/themes/</guid>
       <description></description>
     </item>
     

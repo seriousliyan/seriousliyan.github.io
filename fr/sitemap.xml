@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seriousli.ingo/fr/posts/markdown-syntax/</loc>
+    <loc>https://seriousli.info/fr/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seriousli.ingo/posts/markdown-syntax/"
+                href="https://seriousli.info/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://seriousli.ingo/fa/posts/markdown-syntax/"
+                href="https://seriousli.info/fa/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://seriousli.ingo/fr/posts/markdown-syntax/"
+                href="https://seriousli.info/fr/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://seriousli.ingo/fr/frtags/css/</loc>
+    <loc>https://seriousli.info/fr/frtags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frcategories/</loc>
+    <loc>https://seriousli.info/fr/frcategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frseries/</loc>
+    <loc>https://seriousli.info/fr/frseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frtags/</loc>
+    <loc>https://seriousli.info/fr/frtags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frtags/html/</loc>
+    <loc>https://seriousli.info/fr/frtags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frtags/markdown/</loc>
+    <loc>https://seriousli.info/fr/frtags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/</loc>
+    <loc>https://seriousli.info/fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seriousli.ingo/"
+                href="https://seriousli.info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://seriousli.ingo/fa/"
+                href="https://seriousli.info/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://seriousli.ingo/fr/"
+                href="https://seriousli.info/fr/"
                 />
   </url><url>
-    <loc>https://seriousli.ingo/fr/posts/</loc>
+    <loc>https://seriousli.info/fr/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seriousli.ingo/posts/"
+                href="https://seriousli.info/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://seriousli.ingo/fa/posts/"
+                href="https://seriousli.info/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://seriousli.ingo/fr/posts/"
+                href="https://seriousli.info/fr/posts/"
                 />
   </url><url>
-    <loc>https://seriousli.ingo/fr/frcategories/syntax/</loc>
+    <loc>https://seriousli.info/fr/frcategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frtags/themes/</loc>
+    <loc>https://seriousli.info/fr/frtags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frcategories/themes/</loc>
+    <loc>https://seriousli.info/fr/frcategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/frseries/themes-guide/</loc>
+    <loc>https://seriousli.info/fr/frseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/fr/archives/</loc>
+    <loc>https://seriousli.info/fr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seriousli.ingo/archives/"
+                href="https://seriousli.info/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://seriousli.ingo/fr/archives/"
+                href="https://seriousli.info/fr/archives/"
                 />
   </url><url>
-    <loc>https://seriousli.ingo/fr/search/</loc>
+    <loc>https://seriousli.info/fr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seriousli.ingo/search/"
+                href="https://seriousli.info/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://seriousli.ingo/fr/search/"
+                href="https://seriousli.info/fr/search/"
                 />
   </url>
 </urlset>
