@@ -8,14 +8,23 @@
     <loc>https://seriousli.ingo/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://seriousli.ingo/birthofblog/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
   </url><url>
-    <loc>https://seriousli.ingo/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://seriousli.ingo/tags/blog/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/categories/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/tags/github/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/tags/hugo/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
   </url><url>
     <loc>https://seriousli.ingo/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -31,6 +40,24 @@
                 hreflang="en"
                 href="https://seriousli.ingo/"
                 />
+  </url><url>
+    <loc>https://seriousli.ingo/tags/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/tags/themes/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/categories/wiki/</loc>
+    <lastmod>2023-03-01T18:44:54-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/xxx/</loc>
+    <lastmod>2023-02-07T17:04:34-08:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://seriousli.ingo/series/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seriousli.ingo/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
@@ -55,12 +82,6 @@
   </url><url>
     <loc>https://seriousli.ingo/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seriousli.ingo/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seriousli.ingo/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seriousli.ingo/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -90,9 +111,6 @@
                 />
   </url><url>
     <loc>https://seriousli.ingo/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://seriousli.ingo/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://seriousli.ingo/categories/themes/</loc>

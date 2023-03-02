@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>privacy on PaperMod</title>
+    <title>privacy on Seriousli</title>
     <link>https://seriousli.ingo/tags/privacy/</link>
-    <description>Recent content in privacy on PaperMod</description>
+    <description>Recent content in privacy on Seriousli</description>
     <image>
+      <title>Seriousli</title>
       <url>https://seriousli.ingo/papermod-cover.png</url>
       <link>https://seriousli.ingo/papermod-cover.png</link>
     </image>
